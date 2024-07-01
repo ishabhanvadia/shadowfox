@@ -1,0 +1,13 @@
+.cutt_background img{
+    width: 100%;
+    opacity: 20%;
+}
+
+.cutt_image img{
+    width: 60%;
+    margin-top: -100%;
+    margin-bottom: 300px;
+    margin-left: 300px;
+    opacity: 99%;
+    
+}

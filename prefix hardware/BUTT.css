@@ -1,0 +1,12 @@
+.butt_background img{
+    width: 100%;
+    opacity: 20%;
+}
+
+.butt_image img{
+    width: 50%;
+    margin-top: -2000px;
+    margin-bottom: 150px;
+    margin-left: 350px;
+    opacity: 99%;
+}
